@@ -38,4 +38,4 @@ You can use that structure as a backbone starter of your game changer app!
 In case you find something that is not correct, please feel free to [contact Gero himself](https://geronikolov.com/contact-me) and he'll be more than happy to assist and fix the issue.
 
 ## How to contribute?
-You can find the actual application at the iOS App Store. Or simple get it from **[here](https://geronikolov.com/ios-geros/)**!
+You can find the actual application at the iOS App Store. Or simply get it from **[here](https://geronikolov.com/ios-geros/)**!
